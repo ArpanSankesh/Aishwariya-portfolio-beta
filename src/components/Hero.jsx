@@ -18,6 +18,7 @@ const Hero = () => {
                         <LuImport className="ml-2" />
                     </a>
                 </div>
+                
                 <div className="w-full">
                     <img src={hero} alt="Aishwarya Dilip Ghor" className="mt-8 w-full h-96 object-cover object-[center_10%] "/>
                 </div>
