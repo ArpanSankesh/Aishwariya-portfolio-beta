@@ -5,7 +5,9 @@ import {
 } from "react-icons/fa6";
 
 
-import project1 from "../assets/hero.jpg";
+import project1 from "../assets/project img/fanta (1).png";
+import project2 from "../assets/project img/flight.png"
+import project3 from "../assets/project img/spotify.png";
 
 export const LINKS = [
   { id: "projects", name: "projects" },
@@ -20,52 +22,30 @@ export const MARQUEE_TEXT =
 export const PROJECTS = [
   {
     id: 1,
-    title: "E-commerce Website",
+    title: "Fanta Website",
     description:
-      "A full-featured e-commerce website built with React and Node.js.",
+      "Re-designed Fanta website.",
     imgSrc: project1,
-    link: "https://example.com/ecommerce-website",
+    link: "#",
   },
   {
     id: 2,
-    title: "Social Media App",
+    title: "Flight Booking Website",
     description:
-      "A social media application with real-time chat and notifications.",
-    imgSrc: project1,
-    link: "https://example.com/social-media-app",
+      "A Flight Booking Website to easily book filght with best offers.",
+    imgSrc: project2,
+    link: "#",
   },
   {
     id: 3,
-    title: "Portfolio Website",
+    title: "Spotify Clone",
     description:
-      "A personal portfolio website to showcase projects and skills.",
-    imgSrc: project1,
-    link: "https://example.com/portfolio-website",
+      "Cloned the Spotify Website ",
+    imgSrc: project3,
+    link: "#",
   },
-  {
-    id: 4,
-    title: "Blog Platform",
-    description:
-      "A blogging platform with user authentication and content management.",
-    imgSrc: project1,
-    link: "https://example.com/blog-platform",
-  },
-  {
-    id: 5,
-    title: "Task Management Tool",
-    description: "A task management tool to organize and prioritize work.",
-    imgSrc: project1,
-    link: "https://example.com/task-management-tool",
-  },
-  {
-    id: 6,
-    title: "Online Learning Platform",
-    description:
-      "An online learning platform offering various courses and resources.",
-    imgSrc: project1,
-    link: "https://example.com/online-learning-platform",
-  },
-
+  
+  
 ];
 
 export const ABOUT = "I am an Electronics & Telecommunication Engineering student passionate about technology and innovation. With expertise in Java, C++, SQL, and front-end development, I have experience in automation, data extraction, and security systems. As a Bosch Road Safety Hackathon finalist and Cadence India Scholar'23 awardee, I excel in problem-solving and research. My strong academic record (CGPA 9.27) and industry exposure through internships equip me to build impactful tech solutions. As an NSS volunteer and startup competition participant, I blend technical skills with a drive for societal impact."
