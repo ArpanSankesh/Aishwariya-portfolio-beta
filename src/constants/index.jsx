@@ -76,19 +76,15 @@ export const ABOUT = "I am an Electronics & Telecommunication Engineering studen
 
 export const EXPERIENCES = [
   {
-    company: "Google",
-    role: "Software Engineer",
-    year: "12/2023 - Present",
-    description:
-      "Developing and maintaining scalable web applications using modern technologies. Collaborating with cross-functional teams to design and implement new features. Enhancing application performance and ensuring high-quality code through rigorous testing and code reviews. Contributing to the continuous improvement of development processes and best practices.",
-  },
+    company: "Marquardt India PVT. Ltd.",
+    role: "Software Intern",
+    year: "Dec 2023 - Jan 2024",
+    description:" I worked on automating data extraction using Python and Google Colab (Open Source), streamlining processes for efficiency and accuracy. This experience enhanced my skills in data processing, automation, and scripting. Additionally, I explored various aspects of software, hardware, and testing domains, gaining a well-rounded understanding of real-world applications. Working in a professional environment helped me improve my problem-solving abilities, debugging skills, and collaboration while contributing to impactful automation solutions."},
   {
-    company: "Facebook",
-    role: "Frontend Developer",
-    year: "01/2021 - 11/2023",
-    description:
-      "Implemented user interfaces for web applications using React and Redux. Worked closely with designers to ensure seamless user experiences. Optimized components for maximum performance across a vast array of web-capable devices and browsers. Participated in code reviews and provided feedback to maintain high code quality.",
-  },
+    company: "BOSCH",
+    role: "BOSCH ROAD SAFETY HACKATHON FINALISTrontend Developer",
+    year: "April 2024",
+    description:"I worked on implementing a Two-Wheeler Surrounding Awareness System, designed to enhance road safety by alerting riders about nearby vehicles or obstacles. This system utilizes sensor-based detection to monitor the surroundings and provide real-time alerts, reducing blind spots and potential collisions. Through this project, I gained hands-on experience in hardware integration, sensor data processing, and real-time alert mechanisms. Additionally, I collaborated with a team to optimize detection accuracy and ensure seamless functionality, contributing to the project's success as a Bosch Road Safety Hackathon finalist."},
 ];
 
 export const SOCIAL_MEDIA_LINKS = [
