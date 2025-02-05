@@ -9,11 +9,6 @@ import {
   
 
   import project1 from "../assets/hero.jpg";
-  import project2 from "../assets/hero2.jpg";
-  import project3 from "../assets/hero3.jpg";
-  import project4 from "../assets/hero4.jpg";
-  import project5 from "../assets/hero5.jpg";
-  import project6 from "../assets/hero6.jpg";
   
   export const LINKS = [
     { id: "projects", name: "projects" },
@@ -34,45 +29,45 @@ import {
       imgSrc: project1,
       link: "https://example.com/ecommerce-website",
     },
-    {
-      id: 2,
-      title: "Social Media App",
-      description:
-        "A social media application with real-time chat and notifications.",
-      imgSrc: project2,
-      link: "https://example.com/social-media-app",
-    },
-    {
-      id: 3,
-      title: "Portfolio Website",
-      description:
-        "A personal portfolio website to showcase projects and skills.",
-      imgSrc: project3,
-      link: "https://example.com/portfolio-website",
-    },
-    {
-      id: 4,
-      title: "Blog Platform",
-      description:
-        "A blogging platform with user authentication and content management.",
-      imgSrc: project4,
-      link: "https://example.com/blog-platform",
-    },
-    {
-      id: 5,
-      title: "Task Management Tool",
-      description: "A task management tool to organize and prioritize work.",
-      imgSrc: project5,
-      link: "https://example.com/task-management-tool",
-    },
-    {
-      id: 6,
-      title: "Online Learning Platform",
-      description:
-        "An online learning platform offering various courses and resources.",
-      imgSrc: project6,
-      link: "https://example.com/online-learning-platform",
-    },
+    // {
+    //   id: 2,
+    //   title: "Social Media App",
+    //   description:
+    //     "A social media application with real-time chat and notifications.",
+    //   imgSrc: project2,
+    //   link: "https://example.com/social-media-app",
+    // },
+    // {
+    //   id: 3,
+    //   title: "Portfolio Website",
+    //   description:
+    //     "A personal portfolio website to showcase projects and skills.",
+    //   imgSrc: project3,
+    //   link: "https://example.com/portfolio-website",
+    // },
+    // {
+    //   id: 4,
+    //   title: "Blog Platform",
+    //   description:
+    //     "A blogging platform with user authentication and content management.",
+    //   imgSrc: project4,
+    //   link: "https://example.com/blog-platform",
+    // },
+    // {
+    //   id: 5,
+    //   title: "Task Management Tool",
+    //   description: "A task management tool to organize and prioritize work.",
+    //   imgSrc: project5,
+    //   link: "https://example.com/task-management-tool",
+    // },
+    // {
+    //   id: 6,
+    //   title: "Online Learning Platform",
+    //   description:
+    //     "An online learning platform offering various courses and resources.",
+    //   imgSrc: project6,
+    //   link: "https://example.com/online-learning-platform",
+    // },
     
   ];
   
