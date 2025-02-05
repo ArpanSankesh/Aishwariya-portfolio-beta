@@ -73,28 +73,7 @@ import {
       imgSrc: project6,
       link: "https://example.com/online-learning-platform",
     },
-    {
-      id: 7,
-      title: "Fitness Tracker",
-      description: "A mobile application to track fitness activities and goals.",
-      imgSrc: project7,
-      link: "https://example.com/fitness-tracker",
-    },
-    {
-      id: 8,
-      title: "Recipe App",
-      description: "An app for browsing and saving various cooking recipes.",
-      imgSrc: project8,
-      link: "https://example.com/recipe-app",
-    },
-    {
-      id: 9,
-      title: "Weather Dashboard",
-      description:
-        "A weather dashboard providing current weather data and forecasts.",
-      imgSrc: project9,
-      link: "https://example.com/weather-dashboard",
-    },
+    
   ];
   
   export const ABOUT =
