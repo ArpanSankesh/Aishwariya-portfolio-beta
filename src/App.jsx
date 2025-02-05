@@ -1,7 +1,12 @@
+import Navbar from "./components/Navbar"
+
 
 const App = () => {
   return (
-    <div>App</div>
+    <main className="font-light text-white antialiased selection:bg-lime-300 selection:text-black" >
+      <Navbar />
+      <h1>HELLO</h1>
+    </main>
   )
 }
 
