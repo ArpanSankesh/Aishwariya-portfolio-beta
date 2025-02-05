@@ -88,34 +88,23 @@ export const EXPERIENCES = [
 ];
 
 export const SOCIAL_MEDIA_LINKS = [
+  // {
+  //   href: "https://x.com/",
+  //   icon: <FaInstagram fontSize={26} className="hover:opacity-80" />,
+  // },
+  
   {
-    href: "https://x.com/",
-    icon: <FaFacebook fontSize={26} className="hover:opacity-80" />,
-  },
-  {
-    href: "https://x.com/",
-    icon: <FaDiscord fontSize={26} className="hover:opacity-80" />,
-  },
-  {
-    href: "https://x.com/",
-    icon: <FaInstagram fontSize={26} className="hover:opacity-80" />,
-  },
-  {
-    href: "https://x.com/",
-    icon: <FaXTwitter fontSize={26} className="hover:opacity-80" />,
-  },
-  {
-    href: "https://github.com/",
+    href: "https://github.com/aishwaryaghore04",
     icon: <FaGithub fontSize={26} className="hover:opacity-80" />,
   },
   {
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/in/aishwarya-ghore-666486243/",
     icon: <FaLinkedin fontSize={26} className="hover:opacity-80" />,
   },
 ];
 
 export const CONTACT = {
-  text: "I am always excited to collaborate on new and challenging projects. Whether you have a specific project in mind or just want to explore potential opportunities, Id love to hear from you. Lets combine our skills and expertise to create something amazing. Feel free to reach out to discuss how we can work together to achieve your goals.",
-  email: "hi@benson.langford.me",
-  phone: "+(221 - 7654567892)",
+  text: "I am always excited to collaborate on new and challenging projects. Whether you have a specific project in mind or just want to explore potential opportunities, Id love to hear from you. Lets combine my skills and expertise to create something amazing. Feel free to reach out to discuss how we can work together to achieve your goals.",
+  email: "aishwaryaghore04@gmail.com",
+  phone: "+91 9130515133",
 };

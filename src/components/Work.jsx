@@ -3,7 +3,7 @@ import { EXPERIENCES } from "../constants"
 
 const Work = () => {
     return (
-        <section id="experience" className="bg-lime-300 text-black" >
+        <section id="experience" className="bg-lime-300 text-black p-4" >
             <h2 className="my-10 text-center text-3xl lg:text-8xl" >Experience</h2>
             <div className="mx-auto max-w-6xl ">
                 {EXPERIENCES.map((experience, id) => (
