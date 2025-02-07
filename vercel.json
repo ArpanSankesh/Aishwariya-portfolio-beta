@@ -1,5 +1,6 @@
-// {
-//     "build": {
-//       "output": "dist"
-//     }
-//   }
+{
+  "build": {
+    "command": "npm run build",
+    "dist": "dist"
+  }
+}
