@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "homepage": "./",
   },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
