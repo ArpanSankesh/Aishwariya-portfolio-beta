@@ -18,8 +18,7 @@ const App = () => {
       <Work/>
       <Contact />
     </main>
-    
   )
 }
 
-export default App
+export default App 
